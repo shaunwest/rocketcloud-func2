@@ -1,3 +1,5 @@
 console.log('init func 2!');
 
-export default cats = () => ['Menace', 'Grayson', 'Garfield'];
+export const health = () => 'ok';
+
+export const cats = () => ['Menace', 'Grayson', 'Garfield'];
